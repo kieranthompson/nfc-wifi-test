@@ -1,0 +1,8 @@
+{
+  "name": "nfctest",
+  "app_id": "d5ac9acf",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
